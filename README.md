@@ -4,7 +4,7 @@
   it aims to enhances the future developer’s ability of being a good team player by handling the project that solves some kind of a problem
   and gives his full potential to reach the best results and carry the project with his team mates in order to see the light.</p>
 <p>Technologies used are Django as a framework, with HTML,CSS,JavaScript,Ajax, as well as being Deployed on Amazon server.</p>
-<p>"iTravel" as the name indicate it’s a full stack website that aims to ease the experience of travelling, from finding the type of package
+<p>"iTravel" as the name indicate it’s a full stack website that aims to be a travel booking website to ease the experience of travelling, from finding the type of package
 that you desire, which includes all of the informations needed for you to make your mind, from the destination to the package theme whether 
   it is relaxing or adventure type, to the hotels and events included and of course the best prices, as well as the easy and online steps of booking
   using your card, </p>
